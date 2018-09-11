@@ -1,6 +1,6 @@
 {
-  "C:\\source\\kaffenetcoretest-HashtagLegend\\KaffeNetCore.Tests\\bin\\Debug\\netcoreapp2.0\\KaffeNetCore.dll": {
-    "C:\\source\\kaffenetcoretest-HashtagLegend\\KaffeNetCore\\Program.cs": {
+  "D:\\source\\kaffenetcoretest-HashtagLegend\\KaffeNetCore.Tests\\bin\\Debug\\netcoreapp2.0\\KaffeNetCore.dll": {
+    "D:\\source\\kaffenetcoretest-HashtagLegend\\KaffeNetCore\\Program.cs": {
       "KaffeNetCore.Program": {
         "System.Void KaffeNetCore.Program::Main(System.String[])": {
           "Lines": {
@@ -12,35 +12,35 @@
         }
       }
     },
-    "C:\\source\\kaffenetcoretest-HashtagLegend\\KaffeNetCore\\kaffe\\FlatWhite.cs": {
+    "D:\\source\\kaffenetcoretest-HashtagLegend\\KaffeNetCore\\kaffe\\FlatWhite.cs": {
       "KaffeNetCore.kaffe.FlatWhite": {
         "System.Int32 KaffeNetCore.kaffe.FlatWhite::MlMælk()": {
           "Lines": {
-            "11": 0,
-            "12": 0,
-            "13": 0
+            "11": 1,
+            "12": 1,
+            "13": 1
           },
           "Branches": []
         },
         "System.Int32 KaffeNetCore.kaffe.FlatWhite::Pris()": {
           "Lines": {
-            "16": 0,
-            "17": 0,
-            "18": 0
+            "16": 1,
+            "17": 1,
+            "18": 1
           },
           "Branches": []
         },
         "System.String KaffeNetCore.kaffe.FlatWhite::Styrke()": {
           "Lines": {
-            "21": 0,
-            "22": 0,
-            "23": 0
+            "21": 1,
+            "22": 1,
+            "23": 1
           },
           "Branches": []
         }
       }
     },
-    "C:\\source\\kaffenetcoretest-HashtagLegend\\KaffeNetCore\\kaffe\\Cortado.cs": {
+    "D:\\source\\kaffenetcoretest-HashtagLegend\\KaffeNetCore\\kaffe\\Cortado.cs": {
       "kaffe.Cortado": {
         "System.Int32 kaffe.Cortado::MlMælk()": {
           "Lines": {
@@ -60,7 +60,7 @@
         }
       }
     },
-    "C:\\source\\kaffenetcoretest-HashtagLegend\\KaffeNetCore\\kaffe\\Kaffe.cs": {
+    "D:\\source\\kaffenetcoretest-HashtagLegend\\KaffeNetCore\\kaffe\\Kaffe.cs": {
       "kaffe.Kaffe": {
         "System.String kaffe.Kaffe::Styrke()": {
           "Lines": {
@@ -78,9 +78,9 @@
         },
         "System.Void kaffe.Kaffe::.ctor()": {
           "Lines": {
-            "41": 2,
-            "42": 2,
-            "44": 2
+            "41": 7,
+            "42": 7,
+            "44": 7
           },
           "Branches": []
         },
@@ -95,27 +95,27 @@
         }
       }
     },
-    "C:\\source\\kaffenetcoretest-HashtagLegend\\KaffeNetCore\\kaffe\\Latte.cs": {
+    "D:\\source\\kaffenetcoretest-HashtagLegend\\KaffeNetCore\\kaffe\\Latte.cs": {
       "kaffe.Latte": {
         "System.Int32 kaffe.Latte::MlMælk()": {
           "Lines": {
-            "16": 0,
-            "17": 0,
-            "18": 0
+            "16": 1,
+            "17": 1,
+            "18": 1
           },
           "Branches": []
         },
         "System.Int32 kaffe.Latte::Pris()": {
           "Lines": {
-            "21": 0,
-            "22": 0,
-            "23": 0
+            "21": 1,
+            "22": 1,
+            "23": 1
           },
           "Branches": []
         }
       }
     },
-    "C:\\source\\kaffenetcoretest-HashtagLegend\\KaffeNetCore\\kaffe\\SortKaffe.cs": {
+    "D:\\source\\kaffenetcoretest-HashtagLegend\\KaffeNetCore\\kaffe\\SortKaffe.cs": {
       "kaffe.SortKaffe": {
         "System.Int32 kaffe.SortKaffe::Pris()": {
           "Lines": {

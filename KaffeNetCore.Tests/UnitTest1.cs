@@ -47,22 +47,58 @@ namespace KaffeNetCore.Tests
         }
 
         [TestMethod]
-        public void FlatwhiteStyrke()
+        public void FlatwhiteStyrkeTest()
         {
             //arrange
             var flatWhite = new FlatWhite();
             //act
-            string styrke = FlatwhiteStyrke("mild");
+            string styrke = flatWhite.Styrke();
             //assert
-            Assert.AreEqual(styrke, "mild");
+            Assert.AreEqual(styrke, "Mild");
         }
 
         [TestMethod]
-        public void Test5()
+        public void FlatWhiteMælkTest()
         {
             //arrange
+            var flatWhite = new FlatWhite();
             //act
+            int mlMælk = flatWhite.MlMælk();
             //assert
+            Assert.AreEqual(160, mlMælk);
+        }
+
+        [TestMethod]
+        public void FlatWhitePris()
+        {
+            //arrange
+            var flatWhite = new FlatWhite();
+            //act
+            int pris = flatWhite.Pris();
+            //assert
+            Assert.AreEqual(45, pris);
+        }
+
+        [TestMethod]
+        public void LatteMælkTest()
+        {
+            //arrange
+            var latte = new Latte();
+            //act
+            int mlMælk = latte.MlMælk();
+            //assert
+            Assert.AreEqual(120, mlMælk);
+        }
+
+        [TestMethod]
+        public void LattePrisTest()
+        {
+            //arrange
+            var latte = new Latte();
+            //act
+            int pris = latte.Pris();
+            //assert
+            Assert.AreEqual(40, pris);
         }
     }
 }
